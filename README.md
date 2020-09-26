@@ -1,2 +1,9 @@
-# Proximity-Marketing-Application
-This is a mobile application for users to access stores within 5 kms radius to easily know the offers provided near them.
+# ProximityMarketing
+A solution for BLE beacons powered Proximity Marketing for brick and mortar stores with powerful data insights and product recommender system.
+
+## Future Group Dataset
+https://drive.google.com/file/d/1laCl9BkM3UvHYHMYYSJja6R5g1tR7TVA/view?usp=sharing
+
+
+# Enhanced sales techniques
+More relevant suggestions of products to patrons.
